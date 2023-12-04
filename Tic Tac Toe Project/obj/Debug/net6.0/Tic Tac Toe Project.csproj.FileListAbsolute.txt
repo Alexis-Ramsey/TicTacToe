@@ -1,0 +1,14 @@
+C:\Users\MCA\source\repos\Tic Tac Toe Project\bin\Debug\net6.0\Tic Tac Toe Project.exe
+C:\Users\MCA\source\repos\Tic Tac Toe Project\bin\Debug\net6.0\Tic Tac Toe Project.deps.json
+C:\Users\MCA\source\repos\Tic Tac Toe Project\bin\Debug\net6.0\Tic Tac Toe Project.runtimeconfig.json
+C:\Users\MCA\source\repos\Tic Tac Toe Project\bin\Debug\net6.0\Tic Tac Toe Project.dll
+C:\Users\MCA\source\repos\Tic Tac Toe Project\bin\Debug\net6.0\Tic Tac Toe Project.pdb
+C:\Users\MCA\source\repos\Tic Tac Toe Project\obj\Debug\net6.0\Tic Tac Toe Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MCA\source\repos\Tic Tac Toe Project\obj\Debug\net6.0\Tic Tac Toe Project.AssemblyInfoInputs.cache
+C:\Users\MCA\source\repos\Tic Tac Toe Project\obj\Debug\net6.0\Tic Tac Toe Project.AssemblyInfo.cs
+C:\Users\MCA\source\repos\Tic Tac Toe Project\obj\Debug\net6.0\Tic Tac Toe Project.csproj.CoreCompileInputs.cache
+C:\Users\MCA\source\repos\Tic Tac Toe Project\obj\Debug\net6.0\Tic Tac Toe Project.dll
+C:\Users\MCA\source\repos\Tic Tac Toe Project\obj\Debug\net6.0\refint\Tic Tac Toe Project.dll
+C:\Users\MCA\source\repos\Tic Tac Toe Project\obj\Debug\net6.0\Tic Tac Toe Project.pdb
+C:\Users\MCA\source\repos\Tic Tac Toe Project\obj\Debug\net6.0\Tic Tac Toe Project.genruntimeconfig.cache
+C:\Users\MCA\source\repos\Tic Tac Toe Project\obj\Debug\net6.0\ref\Tic Tac Toe Project.dll
